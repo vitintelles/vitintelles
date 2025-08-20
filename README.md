@@ -9,6 +9,8 @@
 
 >🎯 Comprometido, curioso e apaixonado por resolver problemas reais com código
 
+> 💍 Casado e esperando uma atualização no código da família 🤰👶
+
 >🐶 Dono da Alaska, meu husky siberiano, inspiração para automações e projetos pessoais
 
 >🐱 Dono também do Thor, meu gato curioso e companheiro de estudos em casa
@@ -27,6 +29,10 @@
     <td align="center">
       <p>Thor</p>
       <img src="Imagem do WhatsApp de 2025-08-19 à(s) 22.33.16_6217a270.jpg" alt="Thor" height="150">
+    </td>
+    <td align="center">
+      <p>Mozão</p>
+      <img src="Imagem do WhatsApp de 2025-08-19 à(s) 23.51.46_4bfe368f.jpg" alt="Mozão" height="150">
     </td>
   </tr>
 </table>
