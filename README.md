@@ -36,6 +36,10 @@
     </td>
   </tr>
 </table>
+
+----
+
+
 ### 🛠️ Tecnologias & Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
