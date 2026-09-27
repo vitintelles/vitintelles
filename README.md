@@ -9,7 +9,7 @@
 
 >🎯 Comprometido, curioso e apaixonado por resolver problemas reais com código
 
-> 💍 Casado e esperando uma atualização no código da família 🤰👶
+>💍 Casado e esperando uma atualização no código da família 🤰👶
 
 >🐶 Dono da Alaska, meu husky siberiano, inspiração para automações e projetos pessoais
 
